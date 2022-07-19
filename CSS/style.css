@@ -799,6 +799,15 @@ a {
         width: 350px;
         height: 200px;
     }
+    .container-header .fondo { 
+        max-width: 100%;
+        background-position: center center;
+        background-size: cover;
+        background-position-x: center;
+    }
+    .productos .products .overlay-text {
+        font-size: 0.5rem;
+    }
 }
 
 
